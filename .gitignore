@@ -1,0 +1,31 @@
+# datasets and images (huge)
+*/images/
+*/labels/
+APC_Belugas_Jellyfish/
+new_data/
+*/new dataset/
+*/check_empty/
+roboflow_clean/
+to_annotate/
+prelabels/
+review/
+slide_images/
+test_results/
+runs/
+*/runs/
+
+# base model weights (re-downloadable, not ours)
+yolo11n.pt
+yolo11s.pt
+yolo26n.pt
+*/yolo11n.pt
+*/yolo11s.pt
+*/yolo26n.pt
+
+# junk
+*.cache
+__pycache__/
+.ipynb_checkpoints/
+*.zip
+Untitled.ipynb
+*/Untitled.ipynb

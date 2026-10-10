@@ -1,0 +1,7 @@
+
+path: .                 # dataset root = this folder
+train: images/train     # training images
+val: images/val         # validation images
+
+names:
+  0: beluga

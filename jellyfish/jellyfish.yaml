@@ -1,0 +1,11 @@
+
+path: .                 # dataset root = this folder
+train: images/train     # training images
+val: images/val         # validation images
+
+names:
+  0: arctic_comb
+  1: common_northern_comb
+  2: lions_mane
+  3: melon_comb
+  4: moon_jelly
